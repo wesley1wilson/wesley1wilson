@@ -1,7 +1,8 @@
 ### Olá! 👋
 
-- 📖 Cursando o 2º período de Engenharia de Computação pelo Instituto Federal da Paraíba
-- 🔭 Atualmente aprendendo Python e C
+-  Seja bem vindo!
+
+Cursando atualmente o 2º período de Engenharia de Computação pelo Instituto Federal da Paraíba.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wesley1wilson&count_private=true&show_icons=true&theme=aura" />
