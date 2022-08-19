@@ -5,10 +5,10 @@
 Cursando atualmente o 3º período de Engenharia de Computação pelo Instituto Federal da Paraíba.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=wesley1wilson&count_private=true&show_icons=true&theme=aura&hide_border=true"/>
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=wesley1wilson&count_private=true&show_icons=true&theme=aura&hide_border=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1wilson&theme=aura&hide=CMake&layout=compact&hide_border=true" />
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1wilson&theme=aura&hide=CMake&layout=compact&hide_border=true" />
 </a>
 
 <h1> </h1>
