@@ -8,7 +8,7 @@ Cursando atualmente o 4º período de Engenharia de Computação pelo Instituto 
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=wesley1wilson&count_private=true&show_icons=true&theme=aura&hide_border=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1wilson&theme=aura&hide=CMake&layout=compact&hide_border=true" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1wilson&theme=aura&hide=CMake&hide=Jupyter Notebook&layout=compact&hide_border=true" />
 </a>
 
 <h1> </h1>
