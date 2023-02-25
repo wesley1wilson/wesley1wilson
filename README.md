@@ -2,7 +2,7 @@
 
 -  Seja bem vindo!
 
-Cursando atualmente o 4º período de Engenharia de Computação pelo Instituto Federal da Paraíba.
+Cursando atualmente o 5º período de Engenharia de Computação pelo Instituto Federal da Paraíba.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=wesley1wilson&count_private=true&show_icons=true&theme=aura&hide_border=true"/>
