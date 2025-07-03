@@ -2,7 +2,7 @@
 
 -  Seja bem vindo!
 
-Cursando atualmente o 7º período de Engenharia de Computação pelo Instituto Federal da Paraíba.
+Cursando atualmente o 9º período de Engenharia de Computação pelo Instituto Federal da Paraíba.
 
 <b>Contato:</b><br>
 <a align="center">
